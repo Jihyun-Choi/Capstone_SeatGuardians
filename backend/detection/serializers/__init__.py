@@ -1,0 +1,1 @@
+from .detection_serializer import DetectionSerializer
